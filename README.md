@@ -2,7 +2,7 @@
 Data analysis project using Python (Pandas, NumPy, Matplotlib) to explore and analyze NHS healthcare datasets.
 # NHS Digital Work Experience – Data Analysis Project
 
-## 📌 Project Overview
+# Project Overview
 This project was completed as part of NHS Digital Work Experience.  
 It focuses on exploring, cleaning, and analysing NHS healthcare data using Python to generate insights and meaningful interpretations.
 
@@ -10,7 +10,7 @@ The aim of the project was to understand healthcare datasets, apply data analysi
 
 ---
 
-## 📊 Dataset
+# Dataset
 The dataset contains NHS-related healthcare information including:
 
 - Year and month
@@ -23,7 +23,7 @@ The data was analysed to identify patterns, trends, and regional differences.
 
 ---
 
-## 🛠 Tools & Technologies Used
+ # Tools & Technologies Used
 
 - Python
 - Pandas
@@ -33,7 +33,7 @@ The data was analysed to identify patterns, trends, and regional differences.
 
 ---
 
-## 🔎 Key Tasks Performed
+ # Key Tasks Performed
 
 - Data cleaning and preprocessing
 - Handling missing values
@@ -45,7 +45,7 @@ The data was analysed to identify patterns, trends, and regional differences.
 
 ---
 
-## 📈 Insights
+# Insights
 
 - Identified prescribing trends across different NHS regions
 - Observed variations in medication costs
@@ -53,7 +53,7 @@ The data was analysed to identify patterns, trends, and regional differences.
 
 ---
 
-## 🚀 How to Run This Project
+# How to Run This Project
 
 1. Clone this repository:
    ```bash
